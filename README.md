@@ -59,6 +59,5 @@ Experienced IT professional, AV Technician, and open-source advocate with expert
 
 ---
 
-**References available upon request.**
 
 
