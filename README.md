@@ -22,7 +22,7 @@ Experienced IT professional, AV Technician, and open-source advocate with expert
 ### **Professional Experience**  
 
 #### **3DVR.tech | Founder & CTO**  
-*San Diego, CA | [Year] - Present*  
+*San Diego, CA | 2020 - Present*  
 - Spearheaded the development of open-source software and hardware solutions, focusing on digital freedom and decentralized computing.
 - Led multiple projects, including TommyOS (a modular, portable OS), 3DVR CMS (a lightweight, scalable web framework), and an ergonomic workstation kit.
 - Built and maintained web applications with a focus on security, scalability, and user experience.
@@ -30,7 +30,7 @@ Experienced IT professional, AV Technician, and open-source advocate with expert
 - Managed a team of developers, designers, and contributors to drive innovation and product development.
 
 #### **AV Technician | [Previous Employer]**  
-*San Diego, CA | [Year] - [Year]*  
+*San Diego, CA | 2018 - 2020*  
 - Installed, maintained, and troubleshot AV equipment for live events, corporate meetings, and productions.
 - Worked with teams to integrate AV solutions with IT systems for seamless digital experiences.
 - Provided technical support for clients, ensuring smooth operation of audio, video, and lighting systems.
@@ -58,6 +58,9 @@ Experienced IT professional, AV Technician, and open-source advocate with expert
 - **Languages:** English (Fluent), Spanish (Basic)  
 
 ---
+
+
+
 
 
 
