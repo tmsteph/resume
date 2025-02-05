@@ -1,6 +1,3 @@
-# resume
-This is my resume
-
 **Thomas Michael Stephens**  
 San Diego, CA  
 Email: tmsteph1290@gmail.com | Phone: +1 864-360-2659 | LinkedIn: https://www.linkedin.com/in/thomas-michael-stephens/ | GitHub: https://github.com/tmsteph  
